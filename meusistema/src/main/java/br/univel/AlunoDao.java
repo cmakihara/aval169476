@@ -9,7 +9,7 @@ import java.util.List;
 
 public class AlunoDao {
 
-	private static final String SQL_BUSCA_TODOS = "SELECT * FROM CONTATO";
+	private static final String SQL_BUSCA_TODOS = "SELECT * FROM ALUNO";
 
 	public List<Aluno> getTodos() {
 		

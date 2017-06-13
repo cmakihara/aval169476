@@ -43,7 +43,7 @@ public class PainelWrapper extends JPanel {
 		gbc_lblNewLabel.gridy = 0;
 		panel.add(labelTitulo, gbc_lblNewLabel);
 		
-		btnXis = new JButton("Xis");
+		btnXis = new JButton("Fechar");
 		GridBagConstraints gbc_btnXis = new GridBagConstraints();
 		gbc_btnXis.anchor = GridBagConstraints.EAST;
 		gbc_btnXis.gridx = 1;
